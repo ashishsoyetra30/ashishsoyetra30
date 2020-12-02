@@ -10,9 +10,9 @@
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
 - 💬 Ask me about Programming, Tech, Music, Travelling, Photography, Art & Crafts.
 ### Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
-[![Linkedin Badge](https://img.shields.io/badge/-ashishsoyetra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishsoyetra/)](https://www.linkedin.com/in/ashishsoyetra/)
+[![Linkedin Badge](https://img.shields.io/badge/-ashishsoyetra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-soyetra-723b2b186/)](https://www.linkedin.com/in/ashish-soyetra-723b2b186/)
 [![Twitter Badge](https://img.shields.io/badge/-@SoyetraAshish-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SoyetraAshish)](https://twitter.com/SoyetraAshish)
-[![Gmail Badge](https://img.shields.io/badge/-jindaladiti1806@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishsoyetra.4@gmail.com)](mailto:ashishsoyetra.4@gmail.com)   <a href="https://www.instagram.com/soyetra"><img alt="@soyetra | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
+[![Gmail Badge](https://img.shields.io/badge/-ashishsoyetra.4@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishsoyetra.4@gmail.com)](mailto:ashishsoyetra.4@gmail.com)   <a href="https://www.instagram.com/soyetra"><img alt="@soyetra | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
 </a> 
 
 
