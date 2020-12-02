@@ -1,5 +1,5 @@
-## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Ashish Soyetra ](https://Aditijindal.me/)
-![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
+## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Ashish Soyetra ](https://ashishsoyetra.me/)
+![brightgreen](https://komarev.com/ghpvc/?username=ashishsoyetra30)
 
 <img src="https://github.com/ashishsoyetra30/ashishsoyetra30/blob/master/code.svg" width="320" align='right'>
 
