@@ -5,10 +5,10 @@
 
 
 
-- 🔭 I’m currently working on Django
-- 🌱 I’m currently learning Competitive Programming
+- 🔭 I’m currently working on Websites
+- 🌱 I’m currently learning DS & Algo
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
-- 💬 Ask me about Programming, Tech, Music, Travelling, Photography, Art & Crafts.
+- 💬 Ask me about Programming, Tech, Music, Travelling, Games.
 ### Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 [![Linkedin Badge](https://img.shields.io/badge/-ashishsoyetra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-soyetra-723b2b186/)](https://www.linkedin.com/in/ashish-soyetra-723b2b186/)
 [![Twitter Badge](https://img.shields.io/badge/-@SoyetraAshish-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SoyetraAshish)](https://twitter.com/SoyetraAshish)
@@ -17,7 +17,7 @@
 
 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to play Pubg
+- ⚡ Fun fact: I like Animes more than TV shows
 
 ##### Languages I use
 
